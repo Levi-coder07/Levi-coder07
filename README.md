@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Levi-coder07
-- 👀 I’m interested in progamming videogames and backend programming also I'm really interested in blockchaing and cryptography.
-- 💞️ I’m looking to collaborate on a lot of projects that are being written in C++ and Solidity.
+- 👀 I’m interested in progamming videogames and backend/frontend programming also I'm really interested in blockchaing and cryptography.
+- I have good expertise in cloud resources ( AWS, AZURE, GCP) aswell as CI/CD tools and IaC (terraform, terragrunt).
+- 💞️ I’m looking to collaborate on a lot of projects.
 - 📫 How to reach me : Please email me at : yulevja24@hotmail.com
 
 <!---
